@@ -1,5 +1,6 @@
-# 3MD CSS Grid Layout - GT
+
 ```
+3MD CSS Grid Layout - GT
 npm i
 npm start
 ```
